@@ -25,7 +25,7 @@
 ## Connect with Me
 
 <div align="left">
-  <a href="https://tr.linkedin.com/in/muhammed-hasan-gecit-78176b237?trk=public_post_feed-actor-name" style="text-decoration: none; color: inherit;"> 
+  <a href="https://www.linkedin.com/in/hasan-gecit-78176b237/" style="text-decoration: none; color: inherit;"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mhasangecit@gmail.com" style="text-decoration: none;">
